@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <title>Donation options — Palestine Banner</title>
+  <rect width="1200" height="630" fill="#000"/>
+  <g transform="translate(76 65)">
+    <path fill="#000" d="M0 0h88v15H0z"/>
+    <path fill="#fff" d="M0 15h88v14H0z"/>
+    <path fill="#149454" d="M0 29h88v15H0z"/>
+    <path fill="#e6443f" d="m0 0 44 22L0 44z"/>
+    <path d="M0 0h88v44H0z" fill="none" stroke="#fff" stroke-opacity=".2"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="188" y="96" fill="#fff" font-size="25">Palestine Banner</text>
+    <g fill="#75e39b" font-size="80" font-weight="600" letter-spacing="-2">
+      <text x="72" y="252">Donate to support</text>
+      <text x="72" y="347">Palestinians.</text>
+    </g>
+    <text x="76" y="425" fill="#ccc" font-size="27">PCRF · Medical Aid for Palestinians · UNRWA</text>
+    <path d="M76 498h1048" stroke="#29332c"/>
+    <text x="76" y="557" fill="#ccc" font-size="23">Official donation links</text>
+    <text x="1124" y="557" fill="#75e39b" font-size="23" text-anchor="end">palestinebanner.com/click</text>
+  </g>
+</svg>

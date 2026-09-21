@@ -1,0 +1,19 @@
+# Palestine Banner
+
+> A free, copyable HTML banner supporting freedom, dignity, and justice for Palestinians, with links to official donation options.
+
+Website: https://palestinebanner.com/. Author: [Nadim Kobeissi](https://nadim.computer).
+
+The banner has a black background, green text, and a Palestinian flag. Its exact message is “Freedom, dignity, and justice for Palestinians.” It links to https://palestinebanner.com/click. The snippet uses no JavaScript, external files, or tracking.
+
+This independent site does not collect donations, receive fees, or claim affiliation with the listed organizations. Visitors donate on the organizations’ own websites. Some funds support work beyond Gaza.
+
+## Pages
+
+- [Banner and installation instructions](https://palestinebanner.com/index.md): Homepage in Markdown, including the complete HTML snippet.
+- [Donation options](https://palestinebanner.com/click/index.md): PCRF, Medical Aid for Palestinians, and UNRWA, with official donation links.
+
+## Optional
+
+- [Complete site content](https://palestinebanner.com/llms-full.txt): Both pages in one text document.
+- [HTML snippet](https://palestinebanner.com/downloads/banner.html): Ready-to-copy banner source.

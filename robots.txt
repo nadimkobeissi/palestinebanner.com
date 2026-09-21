@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://palestinebanner.com/sitemap.xml
+
+# Machine-readable site guide: https://palestinebanner.com/llms.txt

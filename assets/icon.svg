@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Palestine Banner</title>
+  <rect width="512" height="512" fill="#000"/>
+  <g transform="translate(56 156)">
+    <path fill="#000" d="M0 0h400v67H0z"/>
+    <path fill="#fff" d="M0 67h400v66H0z"/>
+    <path fill="#149454" d="M0 133h400v67H0z"/>
+    <path fill="#e6443f" d="m0 0 200 100L0 200z"/>
+    <path d="M0 0h400v200H0z" fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="2"/>
+  </g>
+</svg>
